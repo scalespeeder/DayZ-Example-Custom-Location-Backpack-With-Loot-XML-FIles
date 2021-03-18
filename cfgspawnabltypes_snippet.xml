@@ -1,0 +1,31 @@
+<!-- Code snippet to be copied and pasted into your cfgspawnabletyples xml file to give you an Goody Bag full of stuff at a custom location -->
+
+<type name="DryBag_Yellow">
+		    <cargo chance="1">
+            <item name="HuntingKnife" />
+        </cargo>
+        <cargo chance="1">
+            <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Canteen" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Rice" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="MilitaryBelt" />
+        </cargo>
+        <cargo chance="1">
+            <item name="NylonKnifeSheath" />
+        </cargo>
+        <cargo chance="1">
+            <item name="BloodTestKit" />
+        </cargo>
+    </type>

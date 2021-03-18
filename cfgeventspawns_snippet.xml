@@ -1,0 +1,6 @@
+<!-- Code snippet to be copied and pasted into your cfgeventspawns xml file to give you a Goody Bag at the given coordinates -->
+
+ <event name="ItemGoodyBag">
+           <pos x="1266.66" z="6303.35" a="-1" />
+		 
+    </event>
